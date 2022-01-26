@@ -1,14 +1,8 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+# IDS721 Project1: Fast API Microservice
 
+This is Project 1 for IDS 721 - Cloud Continuous Delivery of Microservice.
+## Get Top Tracks from an Artist on Spotify
+This is a microservice that can search for an artist on Spotify and return the artist's top 10 tracks as the output.
 
-Hi there! Welcome to AWS Cloud9!
+### Instructions 
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
-
-Happy coding!

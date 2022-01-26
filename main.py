@@ -36,7 +36,6 @@ async def getTopTracks(name: str):
             ithtrack = str(i)+". " + track['name'] + " "
             toptracks = toptracks + ithtrack
             i += 1
-            pass
             
         return {"Top 10 tracks: ": toptracks}
 
